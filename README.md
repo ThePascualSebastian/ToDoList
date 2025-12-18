@@ -23,5 +23,4 @@ The data format I used was a JSON list of task objects, for example: <br/>
 * Empty inputs are ignored
 * Confirmation dialog appears before deleting all tasks
 
-Github Repository Link: https://github.com/PascualSebastian/ToDoList- <br/>
 Loom Link: https://www.loom.com/share/ca9bc183bd2e4f7a93499b006aed7eab 
